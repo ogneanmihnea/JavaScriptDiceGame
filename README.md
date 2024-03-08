@@ -1,5 +1,5 @@
 ![Screenshot 2024-03-08 230732](https://github.com/ogneanmihnea/JavaScriptDiceGame/assets/75368174/11ac163c-c3c3-462d-ace0-9acdde7a8f61)
-Features!:
+Features:
 
 Solo Dice Strategy: With a single die in play, each roll becomes a crucial decision. 
 Players must weigh the risk and reward, choosing when to push their luck and when to play it safe.
